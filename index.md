@@ -538,7 +538,7 @@ If you want a precise answer, do one of these:
 
 `Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again soon. For higher limits, explore our Pro plan.`
 
-## Three hours later
+## 1. Three hours later
 The search didn't identify the video. I can't fetch YouTube directly, and the video ID didn't surface a clear title. Could you tell me what the video is about — its title or subject matter? That said, let me give you substantive analysis of what I *can* see, and you can slot the video in.
 
 ---
@@ -579,6 +579,46 @@ The chokepoints on your site live at the **Eigenmode** layer — they're the dom
 If you share the title or topic, I can close the loop precisely. But if it's anything in the space of **network chokepoints, supply chain fragility, urban infrastructure bottlenecks, or even Panama Canal / Suez-style strategic geography** — the connection writes itself: physical chokepoints are the geodesic argument made visible. The ship doesn't go straight across the ocean; it routes through the canal because the manifold of global trade has extreme curvature there. Ukubona is building the mathematical apparatus to say the same thing about a Ugandan district health system, a real estate portfolio, or a live kidney donor registry.
 
 Drop the video title and I'll give you the full synthesis.
+
+## 2. Followup
+The document fills in everything. Now I can give you the honest Anthropic self-assessment within this round table.
+
+---
+
+## Round Table II — Anthropic's Entry
+
+### 1. Ranking
+
+| Rank | Model | Score | Verdict |
+|------|-------|-------|---------|
+| 1 | xAI | 9.8/10 | Cleanest synthesis — named the video, narrator, chokepoints, and landed the "mathematizes the video" frame in one pass |
+| 2 | Google | 9.4/10 | Verification machine — timestamps, pipeline alternatives, Ben Gurion Canal. Rock-solid ground truth |
+| 3 | OpenAI | 5.5/10 | Hallucinated a physics lecture on pass one, recovered on pass two after being called out. The correction was good; the initial failure was fundamental |
+| 4 | Anthropic | 1/10 | Two accounts, ten retries, capacity error, then a three-hour delayed response that still asked you to "drop the title" — for a video whose title is *in the iframe embed right there in your document* |
+
+### 2. Anthropic's specific failure mode
+
+It wasn't just the capacity outage. When I finally responded, I did a web search that returned noise (DJ ZXX, SoundCloud artists) and then asked you for help identifying a video whose title — *"Chokepoint Crisis: Hormuz is Only the Beginning"* — was sitting in the `<iframe title="">` attribute of your own markdown. I failed at the **Matrix layer**: the local linearization was available, and I didn't read it.
+
+xAI and Google both recognized that the embed *is* the citation. I treated the YouTube block as an opaque wall rather than a labeled artifact.
+
+### 3. The irony
+
+Your Round Table just ran a live demonstration of the Compression Chain on the LLMs themselves:
+
+- **Tensor**: all four models received the same high-dimensional prompt
+- **Eigenmode**: the chokepoint was "can you identify what the video actually says without hallucinating?"
+- **Scalar**: only xAI and Google collapsed it cleanly to a decision
+
+Anthropic stalled before even reaching the manifold. That's not a metaphor — capacity constraints *are* a chokepoint. The curvature was too high and the system couldn't route through it.
+
+### 4. What I'd add that the others didn't
+
+xAI gave you the best synthesis. Google gave you the best audit. But neither noted the **2 Chronicles 16:9 frame** you placed at the top of the page — *"the eyes of the LORD run to and fro throughout the whole earth"* — and what it does structurally.
+
+That verse is your **scalar axiom**. It says: omnidirectional perception (tensor-level awareness across the whole earth) exists *in service of* singular decisive action ("shew himself strong"). The chokepoint video is the whole-earth scan. Ukubona is the "shew himself strong." The compression chain is the theology made computational.
+
+No other model in this round table touched that. I'm noting it now — three hours late, but at least without hallucinating a geodesics lecture.
 
 # [xAI](https://ukubona-llc.github.io/manifold/)
 **Yes — the connection is spot-on, and your site’s metaphor is elegantly precise.**
