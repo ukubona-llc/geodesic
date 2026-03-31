@@ -538,7 +538,7 @@ If you want a precise answer, do one of these:
 
 `Due to unexpected capacity constraints, Claude is unable to respond to your message. Please try again soon. For higher limits, explore our Pro plan.`
 
-# xAI
+# [xAI](https://ukubona-llc.github.io/manifold/)
 **Yes — the connection is spot-on, and your site’s metaphor is elegantly precise.**
 
 Your Home.jsx (especially the **Geodesic** section and the subtle framing of “chokepoints”) is using differential geometry as a *business ontology*. A chokepoint is exactly what curves the manifold: it warps the metric tensor so that the straight-line path (the theoretical shortest path) is no longer the least-action path. The geodesic — the *actual* optimal route — has to bend and thread through the constraint.
