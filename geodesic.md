@@ -1,7 +1,3 @@
-> *Proof of Concept*     
-> -- Ukubona LLC
-
-
 # Round Table I
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; border: 1px solid var(--brd);">
@@ -17,10 +13,7 @@
 </div>
 
 # Ukubona (please lets youtube embed the video into .html artefact)
-I'm so proud of my upgraded website: https://ukubona-llc.github.io/ Notice, it subtly talks about "chokepoints" that curve the manifold through which a geodesic is to be defined by ukubona llc on behalf of its clients. can you relate it to the contents of this video? https://www.youtube.com/watch?v=gFvv-zXx_H0 .. here is `Home.jsx` 
-
-```sh
-==========================================
+I'm so proud of my upgraded website: https://ukubona-llc.github.io/ Notice, it subtly talks about "chokepoints" that curve the manifold through which a geodesic is to be defined by ukubona llc on behalf of its clients. can you relate it to the contents of this video? https://www.youtube.com/watch?v=gFvv-zXx_H0 .. here is Home.jsx ==========================================
 📦 LLM PROJECT SNAPSHOT
 ==========================================
 Directory: .
@@ -86,7 +79,6 @@ Folders :      151
 │   │   ├── Vector.jsx
 ├── tomorrow.md
 ├── vite.config.js 
-```
 
 ```jsx
 import React, { useEffect, useRef } from 'react'
