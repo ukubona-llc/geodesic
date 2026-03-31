@@ -1,6 +1,6 @@
 > *Proof of [Concept](https://ukubona-llc.github.io/manifold)*         
 > *Innevitable [Prompt](https://ukubona-llc.github.io/war)*    
-> *For Client Interfacing*       
+> *For Client [Interfacing](https://ukubona-llc.github.io/intelligence)*       
 > -- [Ukubona LLC](https://ukubona-llc.github.io/)
 
 
