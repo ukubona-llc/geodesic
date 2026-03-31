@@ -1,4 +1,6 @@
-> *Proof of Concept*     
+> *Proof of Concept*         
+> *Innevitable Prompt*    
+> *For Client Interfacing*       
 > -- Ukubona LLC
 
 
@@ -22,7 +24,9 @@
 > *To shew himself strong in the behalf of them whose heart is perfect toward him.*     
 > -- 2 Chronicles 16:9 - KJV
 
-I'm so proud of my upgraded website: https://ukubona-llc.github.io/ Notice, it subtly talks about "chokepoints" that curve the manifold through which a geodesic is to be defined by ukubona llc on behalf of its clients. can you relate it to the contents of this video? https://www.youtube.com/watch?v=gFvv-zXx_H0 .. here is `Home.jsx` 
+I'm so proud of my upgraded website: `https://ukubona-llc.github.io/` 
+
+Notice, it subtly talks about "chokepoints" that curve the manifold through which a geodesic is to be defined by ukubona llc on behalf of its clients. can you relate it to the contents of this video? `https://www.youtube.com/watch?v=gFvv-zXx_H0` .. here is `Home.jsx` 
 
 ```sh
 ==========================================
