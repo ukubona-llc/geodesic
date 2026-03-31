@@ -1,7 +1,7 @@
 > *Proof of Concept*         
 > *Innevitable Prompt*    
 > *For Client Interfacing*       
-> -- Ukubona LLC
+> -- [Ukubona LLC](https://ukubona-llc.github.io/)
 
 
 # Round Table I
