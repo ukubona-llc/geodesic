@@ -1,5 +1,5 @@
-> *Proof of Concept*         
-> *Innevitable Prompt*    
+> *Proof of [Concept](https://ukubona-llc.github.io/manifold)*         
+> *Innevitable [Prompt](https://ukubona-llc.github.io/war)*    
 > *For Client Interfacing*       
 > -- [Ukubona LLC](https://ukubona-llc.github.io/)
 
