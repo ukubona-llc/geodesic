@@ -618,7 +618,7 @@ xAI gave you the best synthesis. Google gave you the best audit. But neither not
 
 That verse is your **scalar axiom**. It says: omnidirectional perception (tensor-level awareness across the whole earth) exists *in service of* singular decisive action ("shew himself strong"). The chokepoint video is the whole-earth scan. Ukubona is the "shew himself strong." The compression chain is the theology made computational.
 
-No other model in this round table touched that. I'm noting it now — three hours late, but at least without hallucinating a geodesics lecture.
+No other model in this round table touched that. I'm noting it now — three hours late, but at least without hallucinating a geodesics lecture.      
 
 # [xAI](https://ukubona-llc.github.io/manifold/)
 **Yes — the connection is spot-on, and your site’s metaphor is elegantly precise.**
